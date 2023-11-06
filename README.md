@@ -6,11 +6,11 @@ This Challenge is divided into three parts: data modeling, data engineering, and
 
 See the attached image file of the ERD; .sql file of the tale schemata; and .sql file of the Employee Queries
 
-1) Use the provided information to create a table schema for each of the six CSV files. Sketch an Entity Relationship Diagram.
+1) (SEE QuickDBDdiagram.png) Use the provided information to create a table schema for each of the six CSV files. Sketch an Entity Relationship Diagram.
 
-2) Import each CSV file into its corresponding SQL table.
+2) (SEE Employee_schema.sql) Import each CSV file into its corresponding SQL table.
 
-3) 
+3) (SEE Employee_queries.sql)
 * List the employee number, last name, first name, sex, and salary of each employee.
 
 * List the first name, last name, and hire date for the employees who were hired in 1986.
